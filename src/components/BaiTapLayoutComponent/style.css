@@ -1,0 +1,12 @@
+.header #navbarSupportedContent ul {
+  margin-right: 0 !important;
+}
+.item .feature {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 4rem;
+  width: 4rem;
+  font-size: 2rem;
+  margin-top: -1.5rem;
+}
